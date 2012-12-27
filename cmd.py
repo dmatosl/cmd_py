@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Author: dmatos@uolinc.com
+#Author: dmatosl <http://github.com/dmatosl>
 
 import re
 import sys
